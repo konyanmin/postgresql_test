@@ -1,0 +1,4 @@
+id,first_name,last_name,email,gender,date_of_birth,country_of_birth,car_id,id,make,model,price
+2,Berna,Dimmack,bdimmack1@typepad.com,Female,2014-11-30,Aland Islands,1,1,Honda,Crosstour,$7.14
+1,Katy,De Lacey,kdelacey0@angelfire.com,Female,1990-12-21,Aland Islands,2,2,Subaru,Impreza,$9.68
+3,Lizabeth,Sapauton,lsapauton2@mozilla.com,Female,2007-01-19,Aland Islands,,,,,
